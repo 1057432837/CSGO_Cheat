@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(215,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(231,77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(231,64): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(231,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(231,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(232,93): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(232,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(232,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(232,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(233,101): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(233,84): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(233,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(233,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(234,95): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(234,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(234,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(234,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(235,105): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(235,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(235,69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(235,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(236,81): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(236,66): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(236,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(236,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(239,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(241,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(248,53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Workspace\游戏外挂\透视+自瞄\Project1\main.cpp(351,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project1.vcxproj -> D:\Workspace\游戏外挂\透视+自瞄\Debug\Project1.exe
